@@ -157,3 +157,7 @@ com.example.financeku
 ## 📜 License
 Hak Cipta © 2026 - Tugas Pemrograman Mobile
 Dibuat untuk keperluan pendidikan. Boleh dimodifikasi dan didistribusikan.
+
+## Hasil SCRUM
+![Uploading Screenshot 2026-06-22 135317.png…]()
+
