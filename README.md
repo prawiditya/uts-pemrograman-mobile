@@ -23,6 +23,8 @@ Aplikasi manajemen keuangan berbasis Android Studio menggunakan database SQLite.
 
 ## Tampilan Laporan
 <img width="366" height="807" alt="Screenshot 2026-05-02 072744" src="https://github.com/user-attachments/assets/fa1bf4ed-9d9b-4c48-b591-5ccd997bf465" />
-
 ## Tampilan Ai Financial Advisor
 <img width="266" height="546" alt="Screenshot 2026-05-02 080238" src="https://github.com/user-attachments/assets/9b4be145-a3bf-40b9-8be4-4d3b6fe9e8ec" />
+
+## Hasil SCRUM 
+<img width="1920" height="1080" alt="Screenshot 2026-06-22 135317" src="https://github.com/user-attachments/assets/9b9ed6f9-f24c-4643-8059-67e65b45d56f" />
