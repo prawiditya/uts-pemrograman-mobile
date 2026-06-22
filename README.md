@@ -52,6 +52,10 @@
   🤖 <b>AI Chat</b>
 </p>
 
+## Hasil SCRUM
+<img width="1920" height="1080" alt="Screenshot 2026-06-22 135317" src="https://github.com/user-attachments/assets/a8784dee-bd77-46c5-93e9-69db9a5842f2" />
+
+
 ---
 
 ## ⚙️ Instalasi & Setup
@@ -158,6 +162,5 @@ com.example.financeku
 Hak Cipta © 2026 - Tugas Pemrograman Mobile
 Dibuat untuk keperluan pendidikan. Boleh dimodifikasi dan didistribusikan.
 
-## Hasil SCRUM
-![Uploading Screenshot 2026-06-22 135317.png…]()
+
 
